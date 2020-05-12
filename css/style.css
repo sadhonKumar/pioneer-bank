@@ -1,0 +1,77 @@
+body{
+	padding: 100px;
+}
+.submit-area{
+	margin-top: 50px;
+	padding: 40px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px gray;
+}
+#transaction-area{
+	display: none;
+}
+h1{
+	color: #ca0762;
+}
+h4{
+	color: white;
+}
+h2{
+	color: white;
+}
+span{
+	color: white;
+}
+.deposit-area{
+	background-color: purple;
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px purple;
+}
+.withdraw-area{
+	background-color: blue;
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px blue;
+}
+.total-area{
+	background-color: red;
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px red;
+}
+.deposit-money{
+	padding: 40px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px gray;
+}
+.Withdraw-money{
+	padding: 40px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px gray;
+}
+
+
+
+/*practice*/
+
+.sagar{
+	
+	display: flex;
+	align-items: center;
+
+}
+.sagar div{
+	border: 2px solid green;
+	padding: 10px;
+}
+
+.box1{
+	flex: 1;
+}
+.box2{
+	flex: 1;
+}
+.box3{
+	flex: 1;
+}
